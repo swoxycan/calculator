@@ -74,7 +74,7 @@ python main.pyw
 
 ## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Daha fazla bilgi için lisans dosyasına göz atabilirsiniz.
+Bu proje [Apache Lisansı](LICENSE) altında lisanslanmıştır. Daha fazla bilgi için lisans dosyasına göz atabilirsiniz.
 
 
 ##  NOT
